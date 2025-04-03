@@ -34,6 +34,6 @@ export default defineConfig({
     // ]
   },
    base: '/itam-guide/',
-   outDir: './.vitepress/dist',
+   outDir: 'docs/.vitepress/dist',
 })
 
