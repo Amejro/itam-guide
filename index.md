@@ -40,37 +40,37 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'public/user.png',
+    avatar: '/user.png',
     name: 'Mr. PATRICK DE SOUZA',
     title: 'ICT Director',
    
   },
    {
-    avatar: 'public/user.png',
+    avatar: '/user.png',
     name: 'Mr. FORKUO SAMUEL',
     title: 'Head of Department',
    
   },
    {
-    avatar: 'public/user.png',
+    avatar: '/user.png',
     name: 'AMEDZRO EMMANUEL KOFI',
     title: 'Developer',
    
   },
    {
-    avatar: 'public/user.png',
+    avatar: '/user.png',
     name: 'EMMANUEL ESSIAW',
     title: 'Developer',
    
   },
    {
-    avatar: 'public/user.png',
+    avatar: '/user.png',
     name: 'GABRIEL BABAYAIGIWEH AKIKOR',
     title: 'Developer',
    
   },
   {
-    avatar: 'public/user.png',
+    avatar: '/user.png',
     name: 'EMMANUEL ATTY A.',
     title: 'Developer',
    
