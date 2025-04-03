@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "ITAM Documentation",
+  title: "ITAM Guide",
   description: "User guide for ITAM LIMS",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
