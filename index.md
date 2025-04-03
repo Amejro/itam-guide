@@ -29,48 +29,41 @@ hero:
 
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
-
-// Mr. PATRICK DE SOUZA, ICT Director
-// Mr. FORKUO SAMUEL, Head of Department
-// AMEDZRO EMMANUEL KOFI, Lead Developer.
-// EMMANUEL ESSIAW , Developer.
-// EMMANUEL ATTY A. , Developer.
-// GABRIEL BABAYAIGIWEH AKIKOR, Developer.
-
+import { withBase, useData } from 'vitepress'
 
 const members = [
   {
-    avatar: '/user.png',
+    avatar: withBase('/user.png') ,
     name: 'Mr. PATRICK DE SOUZA',
     title: 'ICT Director',
    
   },
    {
-    avatar: '/user.png',
+    avatar: withBase('/user.png'),
     name: 'Mr. FORKUO SAMUEL',
     title: 'Head of Department',
    
   },
    {
-    avatar: '/user.png',
+    avatar: withBase('/user.png'),
     name: 'AMEDZRO EMMANUEL KOFI',
     title: 'Developer',
    
   },
    {
-    avatar: '/user.png',
+    avatar: withBase('/user.png'),
     name: 'EMMANUEL ESSIAW',
     title: 'Developer',
    
   },
    {
-    avatar: '/user.png',
+    avatar: withBase('/user.png'),
     name: 'GABRIEL BABAYAIGIWEH AKIKOR',
     title: 'Developer',
    
   },
   {
-    avatar: '/user.png',
+    avatar: withBase('/user.png'),
     name: 'EMMANUEL ATTY A.',
     title: 'Developer',
    
