@@ -6,14 +6,15 @@ export default defineConfig({
   description: "User guide for ITAM LIMS",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+
+    logo: '/UHAS-ITAM.png',
     nav: [
       { text: 'Home', link: '/' },
-      // { text: 'Examples', link: '/markdown-examples' }
     ],
-
+    siteTitle: false,
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Guide',
         items: [
           // { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Introduction', link: '/Introduction' },
@@ -28,12 +29,19 @@ export default defineConfig({
       }
     ],
 
-   
+    editLink: {
+      pattern: 'https://github.com/amejro/itam-guide/edit/main/:path'
+      
+    },
+    search: {
+      provider: 'local'
+    },
+
     // socialLinks: [
     //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     // ]
   },
    base: '/itam-guide/',
    outDir: 'docs/.vitepress/dist',
+   lastUpdated: true,
 })
-

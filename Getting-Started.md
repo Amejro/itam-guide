@@ -1,6 +1,6 @@
-### **2\. Getting Started** {#2.-getting-started}
+# Getting Started
 
-#### **2.1 Accessing the App** {#2.1-accessing-the-app}
+## Accessing the App
 
 To access the Library Information Management System (LIMS), a valid account is required.
 

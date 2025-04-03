@@ -1,13 +1,13 @@
-### **4\. Inventory Management** {#4.-inventory-management}
+# Inventory Management
 
 The Inventory Module helps you manage and track available stock, including quantities, expiry dates, and storage locations.
 
-#### **4.1. Accessing the Inventory Module** {#4.1.-accessing-the-inventory-module}
+## Accessing the Inventory Module
 
 1. Log in to the system.  
 2. Click on **Inventories** from the left sidebar to view the inventory list.
 
-#### **4.2. Viewing Inventory Items** {#4.2.-viewing-inventory-items}
+## Viewing Inventory Items
 
 The **Inventory List** page displays:
 
@@ -25,7 +25,7 @@ To view details of an inventory item:
 
 ![][image8]
 
-#### **4.3. Adding a New Inventory Item** {#4.3.-adding-a-new-inventory-item}
+## Adding a New Inventory Item
 
 1. Click the **New Inventory** button.  
 2. Fill in the required fields:  
@@ -39,7 +39,7 @@ To view details of an inventory item:
 
 ![][image9]
 
-#### **4.4. Editing an Inventory Item** {#4.4.-editing-an-inventory-item}
+## Editing an Inventory Item
 
 1. Locate the item in the **Inventory List**.  
 2. Click **Edit** next to the item.  
@@ -48,7 +48,7 @@ To view details of an inventory item:
    * Adjust **Item Variants** if applicable.  
 4. Click **Save Changes** to update the inventory.
 
-#### **4.5. Tracking Inventory Activities** {#4.5.-tracking-inventory-activities}
+## Tracking Inventory Activities
 
 1. Click **Activities** next to an item in the inventory list.  
 2. View logs of stock changes, including restocking and updates.

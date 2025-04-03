@@ -1,13 +1,13 @@
-### **6\. Payment Module** {#6.-payment-module}
+# Payment Module
 
 The Payment Module helps you track and manage payments for laboratory samples, including payment status, records, and receipts. This section explains how to navigate and use the payment system efficiently.
 
-#### **6.1. Accessing the Payment Module** {#6.1.-accessing-the-payment-module}
+## Accessing the Payment Module
 
 1. Log in to the system  
 2. Click on **Payments** from the left sidebar to view the payment list.
 
-#### **6.2. Viewing Payment Details** {#6.2.-viewing-payment-details}
+## Viewing Payment Details
 
 1. Click any payment record or  **View** next to any payment record  
 2. The payment details page shows:  
@@ -23,7 +23,7 @@ The Payment Module helps you track and manage payments for laboratory samples, i
 
 ![][image14]
 
-#### **6.3. Adding Payment Records** {#6.3.-adding-payment-records}
+## Adding Payment Records
 
 1. Click **New payment record** on the payment details page   
 2. Fill in the required fields:  
@@ -37,7 +37,7 @@ The Payment Module helps you track and manage payments for laboratory samples, i
 
 ![][image15]
 
-#### **6.4. Payment Records**  {#6.4.-payment-records}
+## Payment Records
 
 The payment records section shows:
 
@@ -47,7 +47,7 @@ The payment records section shows:
 * Received by  
 * Date received
 
-#### **6.5. Payment Status Types** {#6.5.-payment-status-types}
+## Payment Status Types
 
  Payments can have the following statuses:
 
@@ -55,12 +55,12 @@ The payment records section shows:
 * **Part Payment**: Partial amount paid  
 * **Paid**: Full amount received
 
-#### **6.6. Managing Receipts** {#6.6.-managing-receipts}
+## Managing Receipts
 
 1. Click the **Receipt** button on the payment details page  
 2. View or print the receipt for record-keeping
 
-#### **Tips** {#tips}
+## tips
 
 * Use the search bar to find specific payments by **Serial Code** of the sample (eg. ITAM/CA/003/01-25)  
 * All amounts are displayed in Ghana Cedis (GHS)  

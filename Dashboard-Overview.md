@@ -1,10 +1,10 @@
-### **3\. Dashboard Overview** {#3.-dashboard-overview}
+# Dashboard Overview
 
 The dashboard is the central hub of the Library Information Management System (LIMS). It provides a summary of the system's key metrics, recent activities, and quick access to critical functionalities.
 
 ![][image5]
 
-#### **3.1 Top Navigation Bar** {#3.1-top-navigation-bar}
+## Top Navigation Bar
 
 ![][image6]
 
@@ -14,9 +14,7 @@ The top bar provides essential tools:
 * **Notifications Icon:** Displays system notifications for pending tasks or updates.  
 * **User Profile:** Access account settings or log out.
 
-#### 
-
-#### **3.2 Sidebar Menu** {#3.2-sidebar-menu}
+## Sidebar Menu
 
 Located on the left side of the screen, the sidebar menu provides quick access to the   system's main modules.
 
@@ -45,11 +43,7 @@ Located on the left side of the screen, the sidebar menu provides quick access t
   * **Activity Logs**
 
 
-#### 
-
-#### 
-
-#### **3.3 Dashboard Content Area** {#3.3-dashboard-content-area}
+## Dashboard Content Area
 
 The central area displays detailed information, including:
 

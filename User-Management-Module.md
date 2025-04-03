@@ -1,13 +1,13 @@
-### **7\. User Management Module** {#7.-user-management-module}
+# User Management Module
 
 The User Management Module allows administrators to create, manage, and monitor user accounts within the system. This section explains how to effectively use the user management features to maintain proper access control and user permissions.
 
-#### **7.1. Accessing the User Management Module** {#7.1.-accessing-the-user-management-module}
+## Accessing the User Management Module
 
 1. Log in to the system  
 2. Click on **Users** under the Settings & Logs section in the left sidebar
 
-#### **7.2. Creating New Users** {#7.2.-creating-new-users}
+## Creating New Users
 
 To add a new user to the system:
 
@@ -27,7 +27,7 @@ To add a new user to the system:
    * **Create & create another**: Save and add another user  
    * **Cancel**: Discard changes
 
-#### **7.3. Managing User Accounts**  {#7.3.-managing-user-accounts}
+## Managing User Accounts
 
 When a new account is created:
 
@@ -35,7 +35,7 @@ When a new account is created:
 * A success message appears with the password  
 * The user should change this password upon first login
 
-#### **7.4. Editing User Information**  {#7.4.-editing-user-information}
+## Editing User Information
 
 To modify user details:
 
@@ -51,7 +51,7 @@ To modify user details:
 
 **![][image17]**
 
-#### **7.5. User Roles and Permissions**  {#7.5.-user-roles-and-permissions}
+## User Roles and Permissions
 
 Available roles include:
 
@@ -61,7 +61,7 @@ Available roles include:
 * **Receptionist**: Front desk operation and sample registration  
 * **Store Keeper**: Inventory management
 
-#### **Tips** {#tips-1}
+## tips
 
 * Use institutional email addresses only (@uhas.edu.gh)  
 * Share default passwords securely  

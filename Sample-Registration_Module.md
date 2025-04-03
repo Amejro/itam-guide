@@ -1,15 +1,15 @@
-### **5\. Sample Registration Module** {#5.-sample-registration-module}
+# Sample Registration Module
 
 The Sample Module helps you manage and track laboratory samples, including product information, testing requirements, and results. This manual explains how to navigate and use the sample management system efficiently.
 
-#### **5.1. Accessing the Sample Module** {#5.1.-accessing-the-sample-module}
+## Accessing the Sample Module
 
 1. Log in to the system.  
 2. Click on **Samples** from the left sidebar to view the sample list.
 
  ![][image10]
 
-#### **5.2. Viewing Sample Items** {#5.2.-viewing-sample-items}
+## Viewing Sample Items
 
  The **Sample List** page displays:
 
@@ -26,7 +26,7 @@ To view details of a sample:
 1. Click **on** the desired sample  
 2. The sample's complete details will be displayed
 
-#### **5.3. Creating a New Sample** {#5.3.-creating-a-new-sample}
+## Creating a New Sample
 
 1. Click the **New Sample** button  
 2. Complete the three-step process: **Step 1: Product Information**  
@@ -42,7 +42,7 @@ To view details of a sample:
      ![][image13]  
    * Click **Create** to save the sample 
 
-#### **5.4. Managing Samples** {#5.4.-managing-samples}
+## Managing Samples
 
 1. Use status filters to view samples by stage:  
      
